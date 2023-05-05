@@ -1,0 +1,114 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#bg_desktop  {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#box_1 {
+	top: 0px;
+	left: 0px;
+	width: 1460px;
+	height: 1024px;
+	background:rgba(217,217,217,1);
+}
+
+
+#box_2 {
+	top: 237px;
+	left: 445px;
+	width: 554px;
+	height: 554px;
+	-ms-border-radius: 30px;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	border: 2px solid #000000;
+	-ms-box-shadow:0px 0px 4px 1px rgba(0,0,0,0.44);
+	-o-box-shadow:0px 0px 4px 1px rgba(0,0,0,0.44);
+	-webkit-box-shadow:0px 0px 4px 1px rgba(0,0,0,0.44);
+	-moz-box-shadow:0px 0px 4px 1px rgba(0,0,0,0.44);
+	box-shadow:0px 0px 4px 1px rgba(0,0,0,0.44);
+	background:rgba(255,246.29,246.29,1);
+}
+
+
+
+
+#login {
+	top: 277px;
+	left: 658px;
+	width: 169px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#username_box1 {
+	top: 439px;
+	left: 578px;
+	width: 290px;
+	height: 60px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(166.81,157.64,157.64,1);
+}
+
+
+#username {
+	top: 457px;
+	left: 592px;
+	width: 288px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#080808;
+}
+
+
+#password_box1{
+	top: 549px;
+	left: 578px;
+	width: 290px;
+	height: 60px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(167,158,158,1);
+}
+
+
+#password {
+	top: 567px;
+	left: 669px;
+	width: 131px;
+	height: 38px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
